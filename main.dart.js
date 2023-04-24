@@ -42048,7 +42048,7 @@ k=A.aD(["page",B.h.k(a),"limit",B.h.k(10)],l,l)
 if(b!=null)k.m(0,"eventName",b)
 if(c!=null)k.m(0,"sortType",B.b.gT(c.J().split(".")))
 s=3
-return A.a4(new A.mo().tx(0,"https://4a1d-154-160-16-12.ngrok.io/api/events",k),$async$tA)
+return A.a4(new A.mo().tx(0,"https://c965-102-176-94-110.ngrok.io/api/events",k),$async$tA)
 case 3:p=f
 o=B.ah.lc(0,A.q_(A.pS(p.e).c.a.h(0,"charset")).cN(0,p.w),null)
 n=J.aA(o)
@@ -42067,7 +42067,7 @@ A.a1w("Uploading...")
 n=B.ah.r2(a,null)
 m=new A.mo()
 s=7
-return A.a4(m.t3(n,"https://4a1d-154-160-16-12.ngrok.io/api/events/addEvent"),$async$k0)
+return A.a4(m.t3(n,"https://c965-102-176-94-110.ngrok.io/api/events/addEvent"),$async$k0)
 case 7:l=c
 g=l
 k=B.ah.lc(0,A.q_(A.pS(g.e).c.a.h(0,"charset")).cN(0,g.w),null)
@@ -42112,7 +42112,7 @@ n=B.ah.r2(a,null)
 A.cp("THE EDIITED BODY: "+A.h(n))
 m=new A.mo()
 s=7
-return A.a4(m.xY(n,"https://4a1d-154-160-16-12.ngrok.io/api/events/editEvent"),$async$wz)
+return A.a4(m.xY(n,"https://c965-102-176-94-110.ngrok.io/api/events/editEvent"),$async$wz)
 case 7:l=c
 g=l
 k=B.ah.lc(0,A.q_(A.pS(g.e).c.a.h(0,"charset")).cN(0,g.w),null)
@@ -42157,7 +42157,7 @@ q=3
 B.ah.r2(a,null)
 o=new A.mo()
 s=6
-return A.a4(J.aDy(o,"https://4a1d-154-160-16-12.ngrok.io/api/events/delete/"+j),$async$k9)
+return A.a4(J.aDy(o,"https://c965-102-176-94-110.ngrok.io/api/events/delete/"+j),$async$k9)
 case 6:n=c
 j=n
 m=B.ah.lc(0,A.q_(A.pS(j.e).c.a.h(0,"charset")).cN(0,j.w),null)
@@ -42194,7 +42194,7 @@ s=p}while(true)switch(s){case 0:p=4
 A.a1w("Fetching Categories...")
 n=new A.mo()
 s=7
-return A.a4(n.tz("https://4a1d-154-160-16-12.ngrok.io/category/fetchAllCategories"),$async$n_)
+return A.a4(n.tz("https://c965-102-176-94-110.ngrok.io/category/fetchAllCategories"),$async$n_)
 case 7:m=c
 f=m
 l=B.ah.lc(0,A.q_(A.pS(f.e).c.a.h(0,"charset")).cN(0,f.w),null)
@@ -42240,7 +42240,7 @@ A.a1w("Adding new category...")
 n=B.ah.r2(a,null)
 m=new A.mo()
 s=7
-return A.a4(m.t3(n,"https://4a1d-154-160-16-12.ngrok.io/category/createCategory"),$async$k_)
+return A.a4(m.t3(n,"https://c965-102-176-94-110.ngrok.io/category/createCategory"),$async$k_)
 case 7:l=c
 g=l
 k=B.ah.lc(0,A.q_(A.pS(g.e).c.a.h(0,"charset")).cN(0,g.w),null)
